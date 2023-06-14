@@ -1,0 +1,15 @@
+C:\Users\Hilda Afifah\source\repos\MDI\bin\Debug\MDI.exe.config
+C:\Users\Hilda Afifah\source\repos\MDI\bin\Debug\MDI.exe
+C:\Users\Hilda Afifah\source\repos\MDI\bin\Debug\MDI.pdb
+C:\Users\Hilda Afifah\source\repos\MDI\bin\Debug\MDI.xml
+C:\Users\Hilda Afifah\source\repos\MDI\obj\Debug\MDI.vbproj.AssemblyReference.cache
+C:\Users\Hilda Afifah\source\repos\MDI\obj\Debug\MDI.Form1.resources
+C:\Users\Hilda Afifah\source\repos\MDI\obj\Debug\MDI.Resources.resources
+C:\Users\Hilda Afifah\source\repos\MDI\obj\Debug\MDI.vbproj.GenerateResource.cache
+C:\Users\Hilda Afifah\source\repos\MDI\obj\Debug\MDI.vbproj.CoreCompileInputs.cache
+C:\Users\Hilda Afifah\source\repos\MDI\obj\Debug\MDI.exe
+C:\Users\Hilda Afifah\source\repos\MDI\obj\Debug\MDI.xml
+C:\Users\Hilda Afifah\source\repos\MDI\obj\Debug\MDI.pdb
+C:\Users\Hilda Afifah\source\repos\MDI\obj\Debug\MDI.MDI.resources
+C:\Users\Hilda Afifah\source\repos\MDI\obj\Debug\MDI.AboutBox1.resources
+C:\Users\Hilda Afifah\source\repos\MDI\obj\Debug\MDI.LoginForm1.resources
